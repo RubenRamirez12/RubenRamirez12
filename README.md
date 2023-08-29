@@ -8,7 +8,9 @@ I recently graduated from App Academy, where I immersed myself in the world of w
 
 ## What Drives Me
 
-I believe in the magic that happens when innovation meets efficiency. I'm not just here to write code – I'm here to shape the future, one algorithm at a time. I'm drawn to projects that dare to push the boundaries of technology and ask, "What if?" My mission? To make a positive impact on the world through meaningful software solutions that resonate.
+There's an indescribable satisfaction that comes from dissecting complex problems, piecing together their intricacies, and seeing them transform into elegant solutions. I'm fueled by the enjoyment of critically thinking through challenges, especially those that demand creative problem-solving and a touch of innovation.
+
+Much like a puzzle enthusiast determined to solve the most intricate riddles, I'm drawn to projects that offer intellectual stimulation and the opportunity to navigate uncharted territories. The projects that push the boundaries of technology and ask the question, "Can this be done differently?".
 
 ## Why I Code
 
