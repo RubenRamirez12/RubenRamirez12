@@ -18,6 +18,6 @@ Coding isn't just a job for me; it's a passion that fuels my curiosity and creat
 
 Whether you're a fellow developer, a potential collaborator, or an employer on the lookout for a versatile and dynamic addition to your team, I'd love to connect. Reach out, and let's explore the endless possibilities of coding together!
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ruben-ramirez-64a6a7265/) and [Wellfound](https://wellfound.com/u/ruben-ramirez-16) • Check out my portfolio [ruben-dev.com](https://rubenramirez12.github.io./)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ruben-ramirez-64a6a7265/) and [Wellfound](https://wellfound.com/u/ruben-ramirez-16) • Check out my [Portfolio](https://rubenramirez12.github.io./)
 
 Thanks for stopping by – let's build the future, one line of code at a time! 🌟
