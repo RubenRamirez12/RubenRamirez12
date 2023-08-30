@@ -22,4 +22,4 @@ Whether you're a fellow developer, a potential collaborator, or an employer on t
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ruben-ramirez-64a6a7265/) and [Wellfound](https://wellfound.com/u/ruben-ramirez-16) • Check out my [Portfolio](https://rubenramirez12.github.io./)
 
-Thanks for stopping by – let's build the future, one line of code at a time! 🌟
+Thanks for stopping by – let's build the future, one line of code at a time! 🌟 
